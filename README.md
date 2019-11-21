@@ -1,6 +1,6 @@
-# flutter_widget_test
+# Flutter introduction to widget testing
 
-A new Flutter project.
+https://flutter.dev/docs/cookbook/testing/widget/introduction
 
 ## Getting Started
 
