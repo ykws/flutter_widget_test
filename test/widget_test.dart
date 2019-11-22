@@ -5,6 +5,6 @@ import 'package:flutter_widget_test/main.dart';
 
 void main() {
   testWidgets('MyWidget has a title and message', (WidgetTester tester) async {
-    // Test code goes here
+    await tester.pumpWidget(MyWidget(title: 'T', message: 'M'));
   });
 }
